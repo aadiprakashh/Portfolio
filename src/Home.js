@@ -3,7 +3,7 @@ import "./Home.css"; // Custom styling file (to be created)
 import "bootstrap/dist/css/bootstrap.css"; // Bootstrap CSS
 import "bootstrap-icons/font/bootstrap-icons.css";
 import hero_img from "./images/sitting.svg"; // Image import example
-import menu_logo from "./images/istockphoto-1167770705-2048x2048.jpg"; // Image import example
+import menu_logo from "./images/profile.png"; // Image import example
 
 export default function Home({ mode, theme }) {
   // State for menu visibility toggle
@@ -103,9 +103,7 @@ export default function Home({ mode, theme }) {
                 href="https://github.com/aadiprakashh"
                 style={{ ...getAcolorStyle() }}
                 aria-label="GitHub Profile"
-              >
-
-              </a>
+              ></a>
               <a
                 className="fab bi-instagram"
                 href="https://instagram.com"
@@ -170,7 +168,11 @@ export default function Home({ mode, theme }) {
               </a>
             </div>
             {/* Download CV button */}
-            <a href="https://via.placeholder.com/150" id="btn" download>
+            <a
+              href="https://drive.google.com/file/d/10s4NXmWkZukCqsPKpTVJMqd6U1TH6yOR/view?usp=sharing"
+              id="btn"
+              download
+            >
               Download CV
             </a>
           </div>
@@ -211,7 +213,7 @@ export default function Home({ mode, theme }) {
             {/* Download CV link */}
             <a
               className="btn1"
-              href="download"
+              href="https://drive.google.com/file/d/10s4NXmWkZukCqsPKpTVJMqd6U1TH6yOR/view?usp=sharing"
               style={{
                 backgroundColor: mode === "dark" ? "#333" : "white",
                 ...getBorderStyle(),
