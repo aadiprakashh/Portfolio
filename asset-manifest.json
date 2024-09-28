@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.de10f32c.css",
-    "main.js": "/Portfolio/static/js/main.c0bf4ccf.js",
+    "main.css": "/Portfolio/static/css/main.e3ff891e.css",
+    "main.js": "/Portfolio/static/js/main.ec04cc9c.js",
     "static/js/453.c5eaf93b.chunk.js": "/Portfolio/static/js/453.c5eaf93b.chunk.js",
     "static/media/wild.png": "/Portfolio/static/media/wild.53cbe803fe084cda904a.png",
     "static/media/Apex-ecommerce-website.png": "/Portfolio/static/media/Apex-ecommerce-website.ff346ebf966b1d22343c.png",
@@ -16,12 +16,12 @@
     "static/media/about.png": "/Portfolio/static/media/about.3fc730ce363870df5658.png",
     "static/media/todo.png": "/Portfolio/static/media/todo.986b537465bc13a3b20e.png",
     "index.html": "/Portfolio/index.html",
-    "main.de10f32c.css.map": "/Portfolio/static/css/main.de10f32c.css.map",
-    "main.c0bf4ccf.js.map": "/Portfolio/static/js/main.c0bf4ccf.js.map",
+    "main.e3ff891e.css.map": "/Portfolio/static/css/main.e3ff891e.css.map",
+    "main.ec04cc9c.js.map": "/Portfolio/static/js/main.ec04cc9c.js.map",
     "453.c5eaf93b.chunk.js.map": "/Portfolio/static/js/453.c5eaf93b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de10f32c.css",
-    "static/js/main.c0bf4ccf.js"
+    "static/css/main.e3ff891e.css",
+    "static/js/main.ec04cc9c.js"
   ]
 }
