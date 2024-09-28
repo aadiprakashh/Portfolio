@@ -102,21 +102,28 @@ export default function Home({ mode, theme }) {
                 className="fab bi-github"
                 href="https://github.com/aadiprakashh"
                 style={{ ...getAcolorStyle() }}
-              ></a>
+                aria-label="GitHub Profile"
+              >
+
+              </a>
               <a
                 className="fab bi-instagram"
+                href="https://instagram.com"
                 style={{ ...getAcolorStyle() }}
+                aria-label="Instagram Profile"
               ></a>
               {/* <i className="fab fa-twitter"></i> */}
               <a
-              href="mailto:aadiprakash4319@gmail.com"
+                href="mailto:aadiprakash4319@gmail.com"
                 class="fab bi-envelope-at-fill"
                 style={{ ...getAcolorStyle() }}
+                aria-label="GitHub Profile"
               ></a>
               <a
                 href="https://www.linkedin.com/in/aadi-prakash-961513251/"
                 className="fab bi-linkedin"
                 style={{ ...getAcolorStyle() }}
+                aria-label="GitHub Profile"
               ></a>
             </div>
             {/* Menu items */}
@@ -204,6 +211,7 @@ export default function Home({ mode, theme }) {
             {/* Download CV link */}
             <a
               className="btn1"
+              href="download"
               style={{
                 backgroundColor: mode === "dark" ? "#333" : "white",
                 ...getBorderStyle(),

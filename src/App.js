@@ -3,7 +3,6 @@ import "./App.css";
 import Home from "./Home";
 import About from "./About";
 import Project from "./Project";
-import Services from "./Services";
 import Contact from "./Contact";
 import "aos/dist/aos.css";
 import AOS from "aos";
@@ -37,7 +36,6 @@ function App() {
       <Home mode={mode} theme={toggleMode} />
       <About mode={mode} theme={toggleMode} />
       <Project mode={mode} theme={toggleMode} />
-      {/* <Services mode={mode} theme={toggleMode} /> */}
       <Contact mode={mode} theme={toggleMode} />
     </div>
   );

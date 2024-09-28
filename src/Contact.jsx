@@ -115,18 +115,21 @@ const Contact = ({ mode }) => {
           href="https://github.com/aadiprakashh"
           className="fab bi-github"
           style={{ ...getColorStyle() }}
+          aria-label="GitHub Profile"
         ></a>
 
         <a
           href="https://www.linkedin.com/in/aadi-prakash-961513251/"
           className="fab fa-linkedin"
           style={{ ...getColorStyle() }}
+          aria-label="Linkedin Profile"
         ></a>
 
         <a
           href="mailto:aadiprakash4319@gmail.com"
           className="fab bi-envelope-at-fill"
           style={{ ...getColorStyle() }}
+          aria-label="Email"
         ></a>
       </div>
 
