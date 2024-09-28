@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.de10f32c.css",
-    "main.js": "/Portfolio/static/js/main.008ee408.js",
+    "main.js": "/Portfolio/static/js/main.bfae6f77.js",
     "static/js/453.c5eaf93b.chunk.js": "/Portfolio/static/js/453.c5eaf93b.chunk.js",
     "static/media/wild.png": "/Portfolio/static/media/wild.53cbe803fe084cda904a.png",
     "static/media/Apex-ecommerce-website.png": "/Portfolio/static/media/Apex-ecommerce-website.ff346ebf966b1d22343c.png",
@@ -17,11 +17,11 @@
     "static/media/todo.png": "/Portfolio/static/media/todo.986b537465bc13a3b20e.png",
     "index.html": "/Portfolio/index.html",
     "main.de10f32c.css.map": "/Portfolio/static/css/main.de10f32c.css.map",
-    "main.008ee408.js.map": "/Portfolio/static/js/main.008ee408.js.map",
+    "main.bfae6f77.js.map": "/Portfolio/static/js/main.bfae6f77.js.map",
     "453.c5eaf93b.chunk.js.map": "/Portfolio/static/js/453.c5eaf93b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.de10f32c.css",
-    "static/js/main.008ee408.js"
+    "static/js/main.bfae6f77.js"
   ]
 }
