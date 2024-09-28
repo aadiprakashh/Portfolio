@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/github.io/Portfolio/static/css/main.39170500.css",
-    "main.js": "/github.io/Portfolio/static/js/main.d2ed811f.js",
+    "main.js": "/github.io/Portfolio/static/js/main.0e821f81.js",
     "static/js/453.c5eaf93b.chunk.js": "/github.io/Portfolio/static/js/453.c5eaf93b.chunk.js",
     "static/media/wild.png": "/github.io/Portfolio/static/media/wild.53cbe803fe084cda904a.png",
     "static/media/Apex-ecommerce-website.png": "/github.io/Portfolio/static/media/Apex-ecommerce-website.ff346ebf966b1d22343c.png",
@@ -17,11 +17,11 @@
     "static/media/todo.png": "/github.io/Portfolio/static/media/todo.986b537465bc13a3b20e.png",
     "index.html": "/github.io/Portfolio/index.html",
     "main.39170500.css.map": "/github.io/Portfolio/static/css/main.39170500.css.map",
-    "main.d2ed811f.js.map": "/github.io/Portfolio/static/js/main.d2ed811f.js.map",
+    "main.0e821f81.js.map": "/github.io/Portfolio/static/js/main.0e821f81.js.map",
     "453.c5eaf93b.chunk.js.map": "/github.io/Portfolio/static/js/453.c5eaf93b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.39170500.css",
-    "static/js/main.d2ed811f.js"
+    "static/js/main.0e821f81.js"
   ]
 }
