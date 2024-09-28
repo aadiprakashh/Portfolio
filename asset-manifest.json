@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/github.io/Portfolio/static/css/main.39170500.css",
-    "main.js": "/github.io/Portfolio/static/js/main.0e821f81.js",
-    "static/js/453.c5eaf93b.chunk.js": "/github.io/Portfolio/static/js/453.c5eaf93b.chunk.js",
-    "static/media/wild.png": "/github.io/Portfolio/static/media/wild.53cbe803fe084cda904a.png",
-    "static/media/Apex-ecommerce-website.png": "/github.io/Portfolio/static/media/Apex-ecommerce-website.ff346ebf966b1d22343c.png",
-    "static/media/interior.png": "/github.io/Portfolio/static/media/interior.72b0399ba45006511a20.png",
-    "static/media/resort.png": "/github.io/Portfolio/static/media/resort.d65f75861a70daba2560.png",
-    "static/media/istockphoto-1167770705-2048x2048.jpg": "/github.io/Portfolio/static/media/istockphoto-1167770705-2048x2048.ba31837ac32a4d34d148.jpg",
-    "static/media/bootstrap-icons.woff?": "/github.io/Portfolio/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/github.io/Portfolio/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
-    "static/media/mens-fashion-website.jpg": "/github.io/Portfolio/static/media/mens-fashion-website.19b878cd3135a93da1aa.jpg",
-    "static/media/Gaming-website.jpg": "/github.io/Portfolio/static/media/Gaming-website.7ce5a7616d8e1821e924.jpg",
-    "static/media/sitting.svg": "/github.io/Portfolio/static/media/sitting.16cda041494532cb25d9a2693694f71a.svg",
-    "static/media/about.png": "/github.io/Portfolio/static/media/about.3fc730ce363870df5658.png",
-    "static/media/todo.png": "/github.io/Portfolio/static/media/todo.986b537465bc13a3b20e.png",
-    "index.html": "/github.io/Portfolio/index.html",
-    "main.39170500.css.map": "/github.io/Portfolio/static/css/main.39170500.css.map",
-    "main.0e821f81.js.map": "/github.io/Portfolio/static/js/main.0e821f81.js.map",
-    "453.c5eaf93b.chunk.js.map": "/github.io/Portfolio/static/js/453.c5eaf93b.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.6d250d2a.css",
+    "main.js": "/Portfolio/static/js/main.1af2bada.js",
+    "static/js/453.c5eaf93b.chunk.js": "/Portfolio/static/js/453.c5eaf93b.chunk.js",
+    "static/media/wild.png": "/Portfolio/static/media/wild.53cbe803fe084cda904a.png",
+    "static/media/Apex-ecommerce-website.png": "/Portfolio/static/media/Apex-ecommerce-website.ff346ebf966b1d22343c.png",
+    "static/media/interior.png": "/Portfolio/static/media/interior.72b0399ba45006511a20.png",
+    "static/media/resort.png": "/Portfolio/static/media/resort.d65f75861a70daba2560.png",
+    "static/media/istockphoto-1167770705-2048x2048.jpg": "/Portfolio/static/media/istockphoto-1167770705-2048x2048.ba31837ac32a4d34d148.jpg",
+    "static/media/bootstrap-icons.woff?": "/Portfolio/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/Portfolio/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/mens-fashion-website.jpg": "/Portfolio/static/media/mens-fashion-website.19b878cd3135a93da1aa.jpg",
+    "static/media/Gaming-website.jpg": "/Portfolio/static/media/Gaming-website.7ce5a7616d8e1821e924.jpg",
+    "static/media/sitting.svg": "/Portfolio/static/media/sitting.16cda041494532cb25d9a2693694f71a.svg",
+    "static/media/about.png": "/Portfolio/static/media/about.3fc730ce363870df5658.png",
+    "static/media/todo.png": "/Portfolio/static/media/todo.986b537465bc13a3b20e.png",
+    "index.html": "/Portfolio/index.html",
+    "main.6d250d2a.css.map": "/Portfolio/static/css/main.6d250d2a.css.map",
+    "main.1af2bada.js.map": "/Portfolio/static/js/main.1af2bada.js.map",
+    "453.c5eaf93b.chunk.js.map": "/Portfolio/static/js/453.c5eaf93b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.39170500.css",
-    "static/js/main.0e821f81.js"
+    "static/css/main.6d250d2a.css",
+    "static/js/main.1af2bada.js"
   ]
 }
