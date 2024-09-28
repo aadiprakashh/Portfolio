@@ -186,9 +186,9 @@ export default function Home({ mode, theme }) {
       <div className="container" id="Home">
         <div className="row d-flex home align-items-center h-100 pt-5  justify-content-center">
           <div className="col-md-7 hero ">
-            <h4>
-              Hello <span>My Name is</span>
-            </h4>
+            <h3>
+              <span>Hello</span>, I am
+            </h3>
             {/* Name with dynamically styled text stroke */}
             <h1
               style={{
