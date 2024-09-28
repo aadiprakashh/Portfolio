@@ -144,16 +144,13 @@ const Contact = ({ mode }) => {
           <a href="#Project" className="item" style={{ ...getColorStyle() }}>
             Portfolio
           </a>
-          <a href="#Services" className="item" style={{ ...getColorStyle() }}>
-            Services
-          </a>
           <a href="#Contact" className="item" style={{ ...getColorStyle() }}>
             Contact
           </a>
         </div>
       </footer>
 
-      <p>© 2024 AADI PRAKASH. All rights reserved.</p>
+      <p>© 2024 Aadi Prakash. All rights reserved.</p>
     </div>
   );
 };
