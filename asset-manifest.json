@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aadiprakashh/Portfolio/static/css/main.c638b031.css",
-    "main.js": "/aadiprakashh/Portfolio/static/js/main.af0b429e.js",
+    "main.js": "/aadiprakashh/Portfolio/static/js/main.c10b23d9.js",
     "static/js/453.c5eaf93b.chunk.js": "/aadiprakashh/Portfolio/static/js/453.c5eaf93b.chunk.js",
     "static/media/wild.png": "/aadiprakashh/Portfolio/static/media/wild.53cbe803fe084cda904a.png",
     "static/media/Apex-ecommerce-website.png": "/aadiprakashh/Portfolio/static/media/Apex-ecommerce-website.ff346ebf966b1d22343c.png",
@@ -17,11 +17,11 @@
     "static/media/todo.png": "/aadiprakashh/Portfolio/static/media/todo.986b537465bc13a3b20e.png",
     "index.html": "/aadiprakashh/Portfolio/index.html",
     "main.c638b031.css.map": "/aadiprakashh/Portfolio/static/css/main.c638b031.css.map",
-    "main.af0b429e.js.map": "/aadiprakashh/Portfolio/static/js/main.af0b429e.js.map",
+    "main.c10b23d9.js.map": "/aadiprakashh/Portfolio/static/js/main.c10b23d9.js.map",
     "453.c5eaf93b.chunk.js.map": "/aadiprakashh/Portfolio/static/js/453.c5eaf93b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c638b031.css",
-    "static/js/main.af0b429e.js"
+    "static/js/main.c10b23d9.js"
   ]
 }
