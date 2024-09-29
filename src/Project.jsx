@@ -80,7 +80,8 @@ const Project = ({ mode }) => {
       description:
         "An Educational website that showcases all the detail about Indian wild life",
       technologies: "HTML, CSS, JavaScript, Bootstrap, React",
-      link: "http://example.com/project1",
+      link: "https://github.com/aadiprakashh/Wild-Relam",
+      site: "https://aadiprakashh.github.io/Wild-Relam/",
       category: ["HTML", "CSS", "JavaScript", "Bootstrap", "React"],
     },
     {
