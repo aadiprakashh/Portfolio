@@ -7,6 +7,7 @@ import Interior from "./images/interior.png";
 import Men from "./images/mens-fashion-website.jpg";
 import Wild from "./images/wild.png";
 import Todo from "./images/todo.png";
+import Seller from "./images/Seller.png";
 const Project = ({ mode }) => {
   const [selectedCategory, setSelectedCategory] = useState("All");
   const [hoveredCategory, setHoveredCategory] = useState(null); // New state for hover
@@ -93,6 +94,15 @@ const Project = ({ mode }) => {
       link: "https://github.com/aadiprakashh/Todo",
       site: "https://aadiprakashh.github.io/Todo/",
       category: ["HTML", "CSS", "JavaScript", "Bootstrap", "React"],
+    },
+    {
+      image: Seller,
+      title: "Dashboard",
+      description: "Seller Admin Dashboard template",
+      technologies: "HTML, CSS, JavaScript, Bootstrap, React",
+      link: "https://github.com/aadiprakashh/Seller",
+      site: "https://aadiprakashh.github.io/Seller/",
+      category: ["HTML", "CSS", "JavaScript","Bootstrap","React"],
     },
   ];
   // Filter projects based on the selected category
