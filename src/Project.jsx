@@ -64,7 +64,8 @@ const Project = ({ mode }) => {
       title: "Dune Heaven",
       description: "A Vacation Resort website template",
       technologies: "HTML, CSS",
-      link: "http://example.com/project1",
+      link: "https://github.com/aadiprakashh/Html-Css-Projects/tree/main/Resort",
+      site:"https://github.com/aadiprakashh/Html-Css-Projects/tree/main/Resort",
       category: ["HTML", "CSS"],
     },
     {
