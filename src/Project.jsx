@@ -73,7 +73,8 @@ const Project = ({ mode }) => {
       title: "Livedge",
       description: "Interior Design website template",
       technologies: "HTML, CSS",
-      link: "http://example.com/project2",
+      link: "https://github.com/aadiprakashh/Html-Css-Projects/tree/main/Livedge",
+      site: "https://github.com/aadiprakashh/Html-Css-Projects/tree/main/Livedge",
       category: ["HTML", "CSS"],
     },
     {
